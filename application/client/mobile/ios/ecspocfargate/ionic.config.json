@@ -1,0 +1,7 @@
+{
+  "name": "ecspocfargate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
